@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ankitmohanpandey
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Terraform and Kubernetes
+- 👀 I’m interested in Dataops
   
 
 <!---
