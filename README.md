@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ankitmohanpandey
-- 👀 I’m interested in Dataops
+#- 👋 Hi, I’m @ankitmohanpandey
+#- 👀 I’m interested in Dataops
   
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Ankit" alt="Typing SVG" />
