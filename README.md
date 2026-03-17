@@ -17,11 +17,11 @@ I'm a Data Engineer passionate about building scalable data solutions and learni
 
 ## 💼 What I Do
 
-- 🔧 Building data pipelines with Apache Beam and Spark
-- ☁️ Working with Google Cloud Platform
-- 📊 Processing and analyzing big data
-- 🤖 Exploring ML/AI integrations
-- 📈 Creating data-driven solutions
+-  Building data pipelines with Apache Beam and Spark
+-  Working with Google Cloud Platform
+-  Processing and analyzing big data
+-  Exploring ML/AI integrations
+-  Creating data-driven solutions
 
 ## 🌱 Currently Learning
 
