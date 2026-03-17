@@ -2,10 +2,12 @@
 - 👀 I’m interested in Dataops
   
 
-<h1 align="center">Hi 👋 I'm Your Name</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Your+Name" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <i>Data Engineer | Cloud Enthusiast | Continuous Learner</i>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=9CA3AF&center=true&vCenter=true&width=600&lines=Data+Engineer+%7C+Cloud+Enthusiast+%7C+Continuous+Learner" alt="Typing SVG" />
 </p>
 
 ---
