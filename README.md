@@ -31,15 +31,7 @@ I'm a Data Engineer passionate about building scalable data solutions and learni
 - **GCP CCAI Insights** - Contact center AI analytics
 - **Apache Airflow** - Workflow orchestration
 
-## 🛠️ Tech Stack
 
-**Languages:** Python, SQL, Bash
-
-**Big Data:** Apache Spark, Apache Beam, Apache Airflow
-
-**Cloud:** Google Cloud Platform, BigQuery
-
-**Tools:** Git, Docker, VS Code
 
 ---
 
