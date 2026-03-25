@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=9CA3AF&center=true&vCenter=true&width=600&lines=Data+Engineer+%7C+Cloud+Enthusiast+%7C+Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=9CA3AF&center=true&vCenter=true&width=600&lines=Data+Engineer+%7C+AI+Enthusiast+%7C+Continuous+Learner" alt="Typing SVG" />
 </p>
 
 ---
