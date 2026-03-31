@@ -24,7 +24,7 @@
 ## 👨‍💻 About Me
 
 ```python
-ankit = {
+
     "role"      : "Data Engineer",
     "focus"     : ["Distributed Data Processing", "Streaming Pipelines",
                    "Workflow Orchestration", "Cloud-Native ETL/ELT",
@@ -32,7 +32,7 @@ ankit = {
     "clouds"    : ["Google Cloud Platform ☁️", "Microsoft Azure ⚡"],
     "approach"  : "Design scalable, reliable, and observable data systems",
     "motto"     : "Building data solutions, one pipeline at a time 🚀"
-}
+
 ```
 
 ---
