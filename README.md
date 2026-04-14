@@ -152,5 +152,5 @@
 
 <p align="center">
   <i>💡 Open to collaborating on data engineering, open source pipelines, and big data projects!</i><br/><br/>
-  <b>📬 pandeyankitmohan@gmail.com</b>
+  <b>📬 ankitmohanpandey@outlook.com</b>
 </p>
